@@ -1,0 +1,4 @@
+ gcloud compute instances list
+ gcloud compute ssh pdhoang91-instance-1 --zone=asia-east2-a
+ sudo apt-get update
+ sudo apt-get install -y apache2
